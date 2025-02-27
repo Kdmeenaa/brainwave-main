@@ -856,10 +856,8 @@ export default Roadmap;
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+**Kesa Laga Bhaiyaon Ye Project **
 
 <a href=" " target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
+<img src="[https://i.ibb.co/804sPK6/Image-720.png](https://media.licdn.com/dms/image/v2/D4D16AQH8aiELoEKakQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737614496234?e=1746057600&v=beta&t=tKRS6J5UT4EtxTFDoXj-BXVw4xREQh57DgUB1_o2fcI)" alt="Project Banner">
 </a>
